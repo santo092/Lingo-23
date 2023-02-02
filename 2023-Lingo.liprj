@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="es-mx" xml:lang="es-mx" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="false">
+    <ProjectFile Source="Target/2023-Lingo.flprj" Target="Target/2023-Lingo.flprj" />
+    <TMConnection Connection="numbers.db" ReadOnly="false" Type="StandAlone" />
+</LingoProject>
